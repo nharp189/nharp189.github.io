@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nick&#39;s Site</title>
-    <link>http://github.com/nharp189/nharp189.github.io.git/posts/</link>
+    <link>http://nharp189.github.io/posts/</link>
     <description>Recent content in Posts on Nick&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2020 09:49:17 -0500</lastBuildDate>
     
-	<atom:link href="http://github.com/nharp189/nharp189.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nharp189.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Infectious Misinformation and the Duty to Speak Out: What Social Psychology Teaches Us About Misinformation in the Time of COVID-19</title>
-      <link>http://github.com/nharp189/nharp189.github.io.git/posts/2020.08.11_covid19-misinformation/</link>
+      <link>http://nharp189.github.io/posts/2020.08.11_covid19-misinformation/</link>
       <pubDate>Tue, 11 Aug 2020 09:49:17 -0500</pubDate>
       
-      <guid>http://github.com/nharp189/nharp189.github.io.git/posts/2020.08.11_covid19-misinformation/</guid>
+      <guid>http://nharp189.github.io/posts/2020.08.11_covid19-misinformation/</guid>
       <description>Recently, a group of right-wing Trump supporters calling themselves “America’s Frontline Doctors” released a video making a number of unsubstantiated claims. Namely, they championed an unproven treatment (hydroxychloroquine) for the novel coronavirus (COVID-19), claiming that our nation suffers from a massive misinformation campaign—Fake Science. They also suggest treatment for COVID-19 was found some 15 years ago (long before the emergence of the virus), and that the COVID-19 is not so mysterious given an 80% similarity to other coronaviruses.</description>
     </item>
     
