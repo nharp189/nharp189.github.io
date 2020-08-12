@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musics on Nick&#39;s Site</title>
+    <link>https://nharp189.github.io/music/</link>
+    <description>Recent content in Musics on Nick&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Aug 2020 09:13:49 -0500</lastBuildDate>
+    
+	<atom:link href="https://nharp189.github.io/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tycho</title>
+      <link>https://nharp189.github.io/music/tycho/</link>
+      <pubDate>Wed, 12 Aug 2020 09:13:49 -0500</pubDate>
+      
+      <guid>https://nharp189.github.io/music/tycho/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>
