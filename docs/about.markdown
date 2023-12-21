@@ -10,6 +10,7 @@ If you'd like to see a comprehensive list of my past work, checkout my [CV].
 
 [CV]: https://nharp189.github.io/CV
 
+![ME](/files/nick_stairs.jpeg)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
