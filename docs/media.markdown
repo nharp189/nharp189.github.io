@@ -19,3 +19,7 @@ I was delighted to be selected for a chat with the folks at Gorilla in their "Sp
 The University of Nebraska-Lincoln held a weekly Q&A series during Pride Month (aka June) 2021. I was honored to be selected for one of the features. You can read the full [Q&A] here. 
 
 [Q&A]: https://news.unl.edu/newsrooms/today/article/harp-talks-being-out-in-stem-expanding-lgbtqa-resources/
+
+I also chatted with Daily Nebraskan about LGBTQ+-related issues in Science, Technology, Engineering, & Mathematics. Here's the full [article].
+
+[article]: https://www.dailynebraskan.com/news/lgbtq-students-at-unl-discuss-inclusivity-in-stem-related-fields/article_f61b7b76-4f62-11e9-8aee-5ff27f82af98.html
