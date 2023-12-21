@@ -6,6 +6,11 @@ permalink: /about/
 
 I am a postdoctoral researcher at Yale University, studying the neural basis of craving. I use cognitive and affective neuroscience approaches to better characterize the neural basis of craving, and ultimately aim to apply findings from this work to the development of treatments for substance use disorders. 
 
+If you'd like to see a comprehensive list of my past work, checkout my [CV].
+
+[CV]: https://nharp189.github.io/CV
+
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
