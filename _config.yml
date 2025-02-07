@@ -29,10 +29,6 @@ url: "nharp189@github.io" # the base hostname & protocol for your site, e.g. htt
 twitter_username: @nickharp1
 github_username:  nharp189
 
-layout: page
-title: "Recent Work"
-permalink: /docs/recentwork
-
 # Build settings
 theme: minima
 plugins:
