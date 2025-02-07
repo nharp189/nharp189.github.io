@@ -31,7 +31,7 @@ github_username:  jekyll
 
 layout: page
 title: "Recent Work"
-permalink: /recentwork
+permalink: /docs/recentwork
 
 # Build settings
 theme: minima
