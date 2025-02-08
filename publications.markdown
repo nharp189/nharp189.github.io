@@ -2,14 +2,17 @@
 layout: page
 title: "Publications"
 permalink: /pubs
+
+# come back and find a way to use unsupported plugins
+#[Scholar Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
+#Citations: {{ site.data.scholar.citations }}
+#h-index: {{ site.data.scholar.h_index }}
+#i10-index: {{ site.data.scholar.i10_index }}
 ---
 
 <body style="font-family: Optima">
 
-[Scholar Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
-Citations: {{ site.data.scholar.citations }}
-h-index: {{ site.data.scholar.h_index }}
-i10-index: {{ site.data.scholar.i10_index }}
+
 
 <ol reversed>
 <li>*Haque, E., <b>Harp, N. R.</b>, & Neta, M. (2025). <a href="https://journals.sagepub.com/doi/10.1177/02654075241287235">Greater social network complexity mitigates pandemic-related negativity</a>. <i>Journal of Social and Personal Relationships</i>, <i>42</i>(1), 27-51. </li>

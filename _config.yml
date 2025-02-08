@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -33,6 +34,7 @@ github_username:  nharp189
 theme: minima
 plugins:
   - jekyll-feed
+  - scholar_stats
 
 # Exclude from processing.
 # The following items will not be processed, by default.
