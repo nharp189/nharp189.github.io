@@ -22,10 +22,10 @@ permalink: /media
 <br>
 <div align="center"><img src="/images/nick_stairs_2.jpg" width="350" height="200"></div>
 <br>
-<a href="https://www.dailynebraskan.com/news/lgbtq-students-at-unl-discuss-inclusivity-in-stem-related-fields/article_f61b7b76-4f62-11e9-8aee-5ff27f82af98.html">LGBTQ students at UNL discuss inclusivity in STEM-related fields. [Daily Nebraskan]</a>
+<div align="center"><a href="https://www.dailynebraskan.com/news/lgbtq-students-at-unl-discuss-inclusivity-in-stem-related-fields/article_f61b7b76-4f62-11e9-8aee-5ff27f82af98.html">LGBTQ students at UNL discuss inclusivity in STEM-related fields. [Daily Nebraskan]</a></div>
 <br>
 <div align="center"><img src="/images/nick_cb3.webp" width="350" height="233.3334"></div>
 <br>
-<a href="https://gorilla.sc/spotlights/nicholas-harp?utm_source=twitter&utm_medium=social&utm_campaign=spotlights">Spotlight on... Nicholas Harp [Gorilla Experiment Builder].</a>
+<div align="center"><a href="https://gorilla.sc/spotlights/nicholas-harp?utm_source=twitter&utm_medium=social&utm_campaign=spotlights">Spotlight on... Nicholas Harp [Gorilla Experiment Builder].</a></div>
 <br>
 <div align="center"><img src="/images/nicholas-harp_yale.jpg" width="350" height="350"></div>
