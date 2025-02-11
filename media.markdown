@@ -3,9 +3,9 @@ layout: page
 title: "In the Media"
 permalink: /media
 ---
+# Research coverage:
 
-<body style="font-family: Optima">
-
+<br>
 <div align="center"><a href="https://news.unl.edu/article/sharing-positive-feelings-may-ease-loneliness-based-negativity">Sharing positive feelings may ease loneliness-based negativity. [Nebraska Today]</a></div>
 <br>
 <div align="center"><img src="/images/UNL_Loneliness.jpg" width="350" height="200"></div>
@@ -18,6 +18,13 @@ permalink: /media
 <br>
 <div align="center"><img src="/images/mindfulorg.jpg" width="350" height="200"></div>
 <br>
+<div align="center"><a href="https://gorilla.sc/spotlights/nicholas-harp?utm_source=twitter&utm_medium=social&utm_campaign=spotlights">Spotlight on... Nicholas Harp [Gorilla Experiment Builder].</a></div>
+<br>
+<div align="center"><img src="/images/nicholas-harp_yale.jpg" width="350" height="350"></div>
+<br>
+
+# Service & activism coverage:
+
 <div align="center"><a href="https://news.unl.edu/article/harp-talks-being-out-in-stem-expanding-lgbtqa-resources">Harp talks being ‘out’ in STEM, expanding LGBTQA+ resources. [Nebraska Today]</a></div>
 <br>
 <div align="center"><img src="/images/nick_stairs_2.jpg" width="350" height="200"></div>
@@ -26,6 +33,6 @@ permalink: /media
 <br>
 <div align="center"><img src="/images/nick_cb3.webp" width="350" height="233.3334"></div>
 <br>
-<div align="center"><a href="https://gorilla.sc/spotlights/nicholas-harp?utm_source=twitter&utm_medium=social&utm_campaign=spotlights">Spotlight on... Nicholas Harp [Gorilla Experiment Builder].</a></div>
-<br>
-<div align="center"><img src="/images/nicholas-harp_yale.jpg" width="350" height="350"></div>
+
+
+<body style="font-family: Optima">
