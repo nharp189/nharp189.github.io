@@ -26,8 +26,8 @@ def copy_vtc_files(source_folder, destination_folder):
                 dest_file = os.path.join(dest_dir, file)
                 shutil.copy2(src_file, dest_file)
                 
-source = "/Volumes/G-DRIVE_Thunderbolt_3/2023_PDC3_validation/PreTx/data/PostTx/data/Imaging/"
-destination = "/Users/nick/Documents/PDC3_PreprocPostTx/"
+source = "/Volumes/G-DRIVE_Thunderbolt_3/2023_PDC3_validation/PreTx/data/Imaging/"
+destination = "/Users/nick/Documents/PDC3_PreprocPreTx/"
 copy_vtc_files(source, destination)
 
 print(f"Copied all .vtc files from {source} to {destination}")
