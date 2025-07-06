@@ -11,7 +11,7 @@ For some additional background and details, see: [PLUGIN META CITATIONS]
 
 Logistic regression is one approach for answering these kinds of questions. In the example below, I'll show how we can ask whether the likelihood of activation in a given voxel differs between two groups of studies, while controlling for a third characteristic. 
 
-The function requires a meta-analytic database object (see CANLAB GITHUB), a series of contrast indicator maps (i.e., brain maps with binary outcomes of activation [1] or no activation [0]), and a design matrix for which the function will generate statistical estimates. 
+The function requires a meta-analytic database object (see https://github.com/canlab), a series of contrast indicator maps (i.e., brain maps with binary outcomes of activation [1] or no activation [0]), and a design matrix for which the function will generate statistical estimates. 
 
 <b>This site is a work in-progress, with more code examples and demos on the way!</b>
 <body style="font-family: Optima">
