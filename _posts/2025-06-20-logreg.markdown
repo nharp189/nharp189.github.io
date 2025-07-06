@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Voxel-wise logistic regression!"
+date:   2025-06-20 11:50:00 -0800
+categories: jekyll update
+---
+
+Neuroimaging analyses with functional magnetic resonance imaging (fMRI) datasets often center around questions like, "where in the brain is activation (statistically) greater than chance under a given condition (e.g., for drug cues > neutral cues)." This is accomplished by fitting a linear model predicting activation intensity within each voxel (3-D pixel) of the brain. However, we aren't always interested in knowing the intensity of activation; sometimes, we are interested in questions about the spatial specificity of activations, like in meta-analytic contexts. 
+
+For some additional background and details, see: [PLUGIN META CITATIONS]
+
+Logistic regression is one approach for answering these kinds of questions. In the example below, I'll show how we can ask whether the likelihood of activation in a given voxel differs between two groups of studies, while controlling for a third characteristic. 
+
+The function requires a meta-analytic database object (see CANLAB GITHUB), a series of contrast indicator maps (i.e., brain maps with binary outcomes of activation [1] or no activation [0]), and a design matrix for which the function will generate statistical estimates. 
+
+<b>This site is a work in-progress, with more code examples and demos on the way!</b>
+<body style="font-family: Optima">
