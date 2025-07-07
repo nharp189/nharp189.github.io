@@ -24,7 +24,19 @@ A common approach in meta-analyses for examining how study-level characteristics
 One important note about including control variables is that your coding scheme matters, and variables with more than two categories require extra care. Sticking with the example above, how might we control for the effects of five different drug types? Helmert coding prevents the inclusion of this control variable from dominating the intercept of the regression. In other words, the weights sum to zero such that the intercept of our regression remains representative of the average effect across drug types. This is very different from dummy coding, in which whatever drug type is consistently labeled as zero in the design matrix becomes the condition for represented by the intercept. Here's a look at how to code these five categories: 
 
 <pre><code class="language-r">
+ contr.helmert(factor(c("Alcohol", "Cannabis", "Cigarettes",
+ "Opioids", "Stimulants")))
+ 
+           [,1] [,2] [,3] [,4]
+Alcohol      -1   -1   -1   -1
+Cannabis      1   -1   -1   -1
+Cigarettes    0    2   -1   -1
+Opioids       0    0    3   -1
+Stimulants    0    0    0    4
 
 </code></pre>
+
+Now, we have four predictors coding comparisons among conditions (i.e., Alcohol vs. Cannabis; Cigarettes vs. Alcohol and Cannabis; Opioids vs. Alcohol, Cannabis, and Cigarettes; and, Stimulants vs. Alcohol, Cannabis, Cigarettes, and Opioids). These can be reordered per your interest in specific comparisons, but this setup is perfect for use as a control variable. 
+
 <b>This post is in-progress, updates on the way!</b>
 <body style="font-family: Optima">
