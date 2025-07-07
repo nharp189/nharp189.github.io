@@ -15,6 +15,10 @@ The function requires a meta-analytic database object (see <a href="https://gith
 
 <b>Contrast Indicator Maps</b>
 
+The contrast indicator maps are whole-brain images indicating areas of activation extracted from published reports. For example, you can see below that a series of coordinates have been used to create 10mm spheres of activation. 
+
+<div align="center"><img src="/images/CIM_example.jpg" width="604" height="392"></div>
+
 
 <b>This site is a work in-progress, with more code examples and demos on the way!</b>
 <body style="font-family: Optima">
