@@ -15,10 +15,11 @@ The function requires a meta-analytic database object (see <a href="https://gith
 
 <b>Contrast Indicator Maps</b>
 
-The contrast indicator maps are whole-brain images indicating areas of activation extracted from published reports. For example, you can see below that a series of coordinates have been used to create 10mm spheres of activation. 
+The contrast indicator maps are whole-brain images indicating areas of activation extracted from published reports. For example, you can see below that a series of coordinates have been used to create 10mm spheres of activation throughout the brain. 
 
 <div align="center"><img src="/images/CIM_example.jpg" width="604" height="392"></div>
 
+A common approach in meta-analyses for examining how study-level characteristics influence these activations is to contrast two meta-analytic maps (e.g., comparing studies of treatment-seeking vs. non-treatment-seeking samples). However, these contrasts can be influenced by colinearity with third variables. For example, consider that there may be unequal distributions of drug types (e.g., alcohol, cannabis, opioids, etc.) within the treatment-seeking and non-treatment-seeking studies. One way to address this is to control for this third variable (or additional variables) in a logistic regression. 
 
-<b>This site is a work in-progress, with more code examples and demos on the way!</b>
+<b>This post is a in-progress, updates on the way!</b>
 <body style="font-family: Optima">
