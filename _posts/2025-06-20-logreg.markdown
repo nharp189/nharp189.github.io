@@ -21,5 +21,10 @@ The contrast indicator maps are whole-brain images indicating areas of activatio
 
 A common approach in meta-analyses for examining how study-level characteristics influence these activations is to contrast two meta-analytic maps (e.g., comparing studies of treatment-seeking vs. non-treatment-seeking samples). However, these contrasts can be influenced by colinearity with third variables. For example, consider that there may be unequal distributions of drug types (e.g., alcohol, cannabis, opioids, etc.) within the treatment-seeking and non-treatment-seeking studies. One way to address this is to control for this third variable (or additional variables) in a logistic regression. 
 
-<b>This post is a in-progress, updates on the way!</b>
+One important note about including control variables is that your coding scheme matters, and variables with more than two categories require extra care. Sticking with the example above, how might we control for the effects of five different drug types? Helmert coding prevents the inclusion of this control variable from dominating the intercept of the regression. In other words, the weights sum to zero such that the intercept of our regression remains representative of the average effect across drug types. This is very different from dummy coding, in which whatever drug type is consistently labeled as zero in the design matrix becomes the condition for represented by the intercept. Here's a look at how to code these five categories: 
+
+<pre><code class="language-r">
+
+</code></pre>
+<b>This post is in-progress, updates on the way!</b>
 <body style="font-family: Optima">
